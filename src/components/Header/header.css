@@ -1,0 +1,26 @@
+.header {
+    color: white;
+    display:flex;
+    flex-flow: column;
+    position:relative;
+}
+
+.header-title {
+    position: absolute;
+    top: 40vh;
+    left: 0;
+    width: 100%;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.header-subtitle {
+    position: absolute;
+    top: 46vh;
+    left: 0;
+    width: 100%;
+}
+
+.header img {
+    width: 100%;
+}

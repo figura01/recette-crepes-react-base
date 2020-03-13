@@ -1,0 +1,19 @@
+.ingredients {
+    color: #666;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.ingredients-list {
+    display:flex;
+    flex-flow: column;
+    list-style-type: none;
+}
+
+.ingredients-list-item {
+    padding: 1em 0;
+}
+
+.ingredients-list-item .quantity {
+    font-weight: 700;
+    color: #000;
+}
